@@ -31,5 +31,6 @@
 1. 🇨🇴 Colombia / Bogotá
 2. 💻 Mathematics Applied in Computer Science
 3. 🧠 Machine Learning Engineer
-4. 🏴 Ctf Player
-5. 🐚 Sometimes i like to break stuff 
+4. 🦀 Rust Developer
+5. 🏴 Ctf Player
+6. 🐚 Sometimes i like to break stuff 
