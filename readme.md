@@ -28,10 +28,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣷⣄⠀⠀⠀⠙⠛⠛⠛⠳⠶⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-1. 🇨🇴 Colombia / Bogotá
-2. 💻 Mathematics Applied in Computer Science
-3. 🧠 Machine Learning Engineer
-4. 🦀 Rust Developer
-5. 🐧 Linux user
-6. 🏴 Ctf Player
-7. 🐚 Sometimes i like to break stuff 
+- 🇨🇴 Colombia / Bogotá
+- 💻 Mathematics Applied in Computer Science
+- 🧠 Machine Learning Engineer
+- 🦀 Rust Developer
+- 🐧 Linux user
+- 🏴 Ctf Player
+- 🐚 Sometimes i like to break stuff 
